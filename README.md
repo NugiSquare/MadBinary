@@ -1,1 +1,7 @@
 # MadBinary
+
+---
+
+###Contributor
+
+#####Nugisquare
